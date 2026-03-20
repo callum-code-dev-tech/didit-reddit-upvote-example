@@ -14,3 +14,4 @@ export const { auth, handlers, signOut, signIn } = NextAuth({
     },
   },
 });
+<h2>hi</h2>
